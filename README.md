@@ -16,6 +16,10 @@ The challenge was to transform thousands of rows of raw sales data into actionab
 - Utilized Pivot Tables to efficiently summarize large datasets.
 - Applied Excel formulas to calculate key business KPIs.
 
+### 🔹 Statistical Analysis:** 
+    *   Applied **Normal Distribution (Bell Curve)** analysis to identify spending patterns.
+    *   Calculated the **Top 10% of Purchases** (starting from $443.63) to isolate high-value transactions.
+
 ### 🔹 Visualization & Dashboard Design
 - Designed an interactive Excel dashboard using slicers for dynamic filtering.
 - Identified the Top 10% of high-value customers.
